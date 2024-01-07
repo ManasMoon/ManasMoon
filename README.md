@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript.**
 
-- ⚡ Fun fact **I write poetries when I'm bored.**
+- ⚡ Fun fact **I write on X when I'm bored.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
