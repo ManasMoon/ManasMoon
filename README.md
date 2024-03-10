@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Manas Moon</h1>
 <h3 align="center">I Transforms Ideas into Stunning Websites.</h3>
 
-- 🔭 I’m currently working on **building projects for my resume.**
+- 🔭 I’m currently **building a WebApp for learning to code via documentation.**
 
 - 🌱 I’m currently learning **ReactJS.**
 
 - 📫 You can contact me via email : **manasmoon2608@gmail.com**
 
-- ⚡ Fun fact **I write my learnings on Twitter <a href="https://twitter.com/TheHinglishGuy" target="blank">@TheHinglishGuy</a>.**
+- ⚡ **I write my learnings on Twitter <a href="https://twitter.com/TheHinglishGuy" target="blank">@TheHinglishGuy</a>.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
