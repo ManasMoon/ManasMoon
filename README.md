@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas Moon</h1>
-<h3 align="center">I Transforms Ideas into Stunning Projects.</h3>
+<h3 align="center">A passionate developer from India who enjoys to build new things.</h3>
 
 - 🔭 I’m currently **building a WebApp for learning to code via documentation.**
 
@@ -7,7 +7,7 @@
 
 - 📫 You can contact me via email : **manasmoon2608@gmail.com**
 
-- ⚡ **I write my learnings on Twitter <a href="https://twitter.com/TheHinglishGuy" target="blank">@TheHinglishGuy</a>**
+- ⚡ **I write my learnings on Twitter <a href="https://x.com/manas_moon" target="blank">@manas_moon</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
