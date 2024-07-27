@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS.**
 
-- 📫 You can contact me via email : **manasmoon2608@gmail.com**
+- 📫 You can contact me via email : **me.manasmoon@gmail.com**
 
 - ⚡ **I write my learnings on Twitter <a href="https://x.com/manas_moon" target="blank">@manas_moon</a>**
 
