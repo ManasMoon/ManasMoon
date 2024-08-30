@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas Moon</h1>
-<h3 align="center">A passionate developer from India who enjoys to build new things.</h3>
-
-- 🔭 I’m currently **building a WebApp for learning to code via documentation.**
-
-- 🌱 I’m currently learning **ReactJS.**
+<h3 align="center">I learn & build cool stuff and document the process online.</h3>
 
 - 📫 You can contact me via email : **me.manasmoon@gmail.com**
 
