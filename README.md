@@ -3,7 +3,7 @@
 
 - 📫 You can contact me via email : **me.manasmoon@gmail.com**
 
-- ⚡ **I write my learnings on Twitter <a href="https://x.com/manas_moon" target="blank">@manas_moon</a>**
+- ⚡ **I write my learnings on Twitter <a href="https://x.com/manasvmoon" target="blank">@manas_moon</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
