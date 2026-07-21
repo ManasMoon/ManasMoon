@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas Moon</h1>
-<h3 align="center">I solve my problems and build products around it. </h3>
+<h3 align="center">I solve my problems and build products around it </h3>
 
 - 📫 You can contact me via email : **me.manasmoon@gmail.com**
 
