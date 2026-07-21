@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manas Moon</h1>
-<h3 align="center">I learn & build cool stuff and document the process online.</h3>
+<h3 align="center">I solve my problems and build products around it. </h3>
 
 - 📫 You can contact me via email : **me.manasmoon@gmail.com**
 
-- ⚡ **I write my learnings on Twitter <a href="https://x.com/manasvmoon" target="blank">@manas_moon</a>**
+- ⚡ **I write my learnings on Twitter <a href="https://x.com/manasvmoon" target="blank">@manasvmoon</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
